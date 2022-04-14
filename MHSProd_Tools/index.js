@@ -64,13 +64,20 @@ const fs = require("fs");
 //   .then((response) => {
 //     fs.writeFileSync(response.data);
 //   });
-let num = 7;
-let data = {};
-JSON.parse(fs.readFileSync(`./batch/queries/batch${num}.json`)).batch.forEach(
-  (query) => {
+let num = 9;
+let data = JSON.parse(fs.readFileSync(`./batch/data/data${num}.json`));
+let numEmpty = 0;
+for (const s in data) {
+  if (data[s].lat === undefined) {
+    numEmpty++;
+  }
+}
+console.log(numEmpty);
+for (const school in data) {
+  if (data[school].lat === undefined) {
     const params = {
       access_key: "85aad97f260bfe2eb0f2860c07f9b8ef",
-      query: query.query,
+      query: school,
       country: "US",
       limit: 1,
     };
@@ -78,7 +85,7 @@ JSON.parse(fs.readFileSync(`./batch/queries/batch${num}.json`)).batch.forEach(
     axios
       .get("http://api.positionstack.com/v1/forward", { params })
       .then((response) => {
-        data[query.query] = {
+        data[school] = {
           lat: response.data.data[0].latitude,
           long: response.data.data[0].longitude,
           state: response.data.data[0].region,
@@ -88,8 +95,8 @@ JSON.parse(fs.readFileSync(`./batch/queries/batch${num}.json`)).batch.forEach(
         console.log(error);
       });
   }
-);
+}
 
 setTimeout(() => {
   fs.writeFileSync(`./batch/data/data${num}.json`, JSON.stringify(data));
-}, 30 * 1000);
+}, 10 * 1000);

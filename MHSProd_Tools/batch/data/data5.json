@@ -74,14 +74,22 @@
     "long": -101.796166,
     "state": "Texas"
   },
-  "Florida Gateway College": {},
+  "Florida Gateway College": {
+    "lat": 30.174871,
+    "long": -82.568759,
+    "state": "Florida"
+  },
   "Eastern Washington University": {
     "lat": 47.491642,
     "long": -117.587265,
     "state": "Washington"
   },
-  "Friends University": {},
-  "Drake University": {},
+  "Friends University": {
+    "lat": 37.677949,
+    "long": -97.365412,
+    "state": "Kansas"
+  },
+  "Drake University": { "lat": 41.602926, "long": -93.65624, "state": "Iowa" },
   "Eastern Virginia Medical School": {
     "lat": 36.860731,
     "long": -76.301706,
@@ -97,7 +105,11 @@
     "long": -89.421132,
     "state": "Wisconsin"
   },
-  "Faith Baptist Bible College and Theological Seminary": {},
+  "Faith Baptist Bible College and Theological Seminary": {
+    "lat": 38.820486,
+    "long": -77.092072,
+    "state": "Virginia"
+  },
   "Eastern Nazarene College": {
     "lat": 42.27117,
     "long": -71.011173,
@@ -108,40 +120,96 @@
     "long": -84.911397,
     "state": "Indiana"
   },
-  "East Georgia State College": {},
-  "Duquesne University": {},
-  "Fort Valley State University": {},
-  "Duke University": {},
-  "Drury University": {},
-  "Franklin University": {},
-  "Fisher College": {},
-  "Erskine College": {},
+  "East Georgia State College": {
+    "lat": 32.59308,
+    "long": -82.307229,
+    "state": "Georgia"
+  },
+  "Duquesne University": {
+    "lat": 40.438661,
+    "long": -79.994364,
+    "state": "Pennsylvania"
+  },
+  "Fort Valley State University": {
+    "lat": 32.532179,
+    "long": -83.894857,
+    "state": "Georgia"
+  },
+  "Duke University": {
+    "lat": 36.000715,
+    "long": -78.941806,
+    "state": "North Carolina"
+  },
+  "Drury University": {
+    "lat": 37.218225,
+    "long": -93.284638,
+    "state": "Missouri"
+  },
+  "Franklin University": {
+    "lat": 39.957994,
+    "long": -82.990448,
+    "state": "Ohio"
+  },
+  "Fisher College": {
+    "lat": 42.355424,
+    "long": -71.073814,
+    "state": "Massachusetts"
+  },
+  "Erskine College": {
+    "lat": 34.331754,
+    "long": -82.390378,
+    "state": "South Carolina"
+  },
   "Elon University": {
     "lat": 36.102889,
     "long": -79.513071,
     "state": "North Carolina"
   },
-  "Drew University": {},
-  "Emory University": {},
-  "Eastern Oregon University": {},
+  "Drew University": {
+    "lat": 40.761013,
+    "long": -74.426372,
+    "state": "New Jersey"
+  },
+  "Emory University": {
+    "lat": 33.794053,
+    "long": -84.327305,
+    "state": "Georgia"
+  },
+  "Eastern Oregon University": {
+    "lat": 45.318912,
+    "long": -118.089923,
+    "state": "Oregon"
+  },
   "Evangel University": {
     "lat": 37.220961,
     "long": -93.262638,
     "state": "Missouri"
   },
-  "Fairleigh Dickinson University": {},
+  "Fairleigh Dickinson University": {
+    "lat": 40.89813,
+    "long": -74.030808,
+    "state": "New Jersey"
+  },
   "Franklin and Marshall College": {
     "lat": 40.045437,
     "long": -76.330944,
     "state": "Pennsylvania"
   },
-  "Franklin College": {},
+  "Franklin College": {
+    "lat": 39.477321,
+    "long": -86.04218,
+    "state": "Indiana"
+  },
   "Flagler College": {
     "lat": 29.892577,
     "long": -81.318895,
     "state": "Florida"
   },
-  "Florida National University": {},
+  "Florida National University": {
+    "lat": 25.860853,
+    "long": -80.321634,
+    "state": "Florida"
+  },
   "Five Towns College": {
     "lat": 40.794722,
     "long": -73.369444,
@@ -152,31 +220,71 @@
     "long": -88.588971,
     "state": "Michigan"
   },
-  "Fontbonne University": {},
-  "Fisk University": {},
+  "Fontbonne University": {
+    "lat": 38.641723,
+    "long": -90.315695,
+    "state": "Missouri"
+  },
+  "Fisk University": {
+    "lat": 36.166741,
+    "long": -86.803844,
+    "state": "Tennessee"
+  },
   "Fresno Pacific University": {
     "lat": 36.726247,
     "long": -119.734426,
     "state": "California"
   },
-  "Franklin W. Olin College of Engineering": {},
-  "Franciscan Missionaries of Our Lady University": {},
+  "Franklin W. Olin College of Engineering": {
+    "lat": 42.257337,
+    "long": -77.786807,
+    "state": "New York"
+  },
+  "Franciscan Missionaries of Our Lady University": {
+    "lat": 30.401454,
+    "long": -91.109988,
+    "state": "Louisiana"
+  },
   "East Central University": {
     "lat": 34.773286,
     "long": -96.66413,
     "state": "Oklahoma"
   },
-  "Florida Atlantic University": {},
-  "Eastern University": {},
+  "Florida Atlantic University": {
+    "lat": 26.11959,
+    "long": -80.141697,
+    "state": "Florida"
+  },
+  "Eastern University": {
+    "lat": 40.050563,
+    "long": -75.37209,
+    "state": "Pennsylvania"
+  },
   "Farmingdale State College": {
     "lat": 40.752778,
     "long": -73.427778,
     "state": "New York"
   },
-  "Faulkner University": {},
-  "Fort Hays State University": {},
-  "Felician University": {},
-  "Eastern Connecticut State University": {},
+  "Faulkner University": {
+    "lat": 32.386514,
+    "long": -86.217346,
+    "state": "Alabama"
+  },
+  "Fort Hays State University": {
+    "lat": 38.87159,
+    "long": -99.34306,
+    "state": "Kansas"
+  },
+  "Felician University": {
+    "lat": 40.866489,
+    "long": -74.092642,
+    "state": "New Jersey"
+  },
+  "Eastern Connecticut State University": {
+    "lat": 41.720437,
+    "long": -72.219384,
+    "state": "Connecticut"
+  },
   "Florida Memorial University": {
     "lat": 25.918382,
     "long": -80.271017,
@@ -187,63 +295,199 @@
     "long": -78.892474,
     "state": "North Carolina"
   },
-  "Florida Agricultural and Mechanical University": {},
+  "Florida Agricultural and Mechanical University": {
+    "lat": 30.425562,
+    "long": -84.288479,
+    "state": "Florida"
+  },
   "Emmaus Bible College": {
     "lat": 42.50899,
     "long": -90.705717,
     "state": "Iowa"
   },
-  "Fashion Institute of Technology": {},
-  "Florida Institute of Technology": {},
-  "Eastern Michigan University": {},
-  "Framingham State University": {},
-  "Florida College": {},
-  "Everglades University": {},
+  "Fashion Institute of Technology": {
+    "lat": 40.747111,
+    "long": -73.995145,
+    "state": "New York"
+  },
+  "Florida Institute of Technology": {
+    "lat": 28.064278,
+    "long": -80.622758,
+    "state": "Florida"
+  },
+  "Eastern Michigan University": {
+    "lat": 42.259707,
+    "long": -83.646711,
+    "state": "Michigan"
+  },
+  "Framingham State University": {
+    "lat": 42.298034,
+    "long": -71.436795,
+    "state": "Massachusetts"
+  },
+  "Florida College": {
+    "lat": 28.034899,
+    "long": -82.383333,
+    "state": "Florida"
+  },
+  "Everglades University": {
+    "lat": 27.383636,
+    "long": -82.445404,
+    "state": "Florida"
+  },
   "Florida Southern College": {
     "lat": 28.031467,
     "long": -81.947122,
     "state": "Florida"
   },
-  "Fort Lewis College": {},
+  "Fort Lewis College": {
+    "lat": 37.276673,
+    "long": -107.867687,
+    "state": "Colorado"
+  },
   "Francis Marion University": {
     "lat": 34.191362,
     "long": -79.656681,
     "state": "South Carolina"
   },
-  "Edinboro University of Pennsylvania": {},
-  "Ferrum College": {},
-  "Ferris State University": {},
-  "Edward Waters College": {},
-  "Endicott College": {},
-  "Eastern New Mexico University": {},
-  "Elizabeth City State University": {},
-  "East Tennessee State University": {},
-  "Elizabethtown College": {},
-  "Drexel University": {},
-  "Freed-Hardeman University": {},
-  "Florida State College at Jacksonville": {},
-  "Fielding Graduate University": {},
-  "East Texas Baptist University": {},
-  "Franciscan University of Steubenville": {},
+  "Edinboro University of Pennsylvania": {
+    "lat": 41.874319,
+    "long": -80.122072,
+    "state": "Pennsylvania"
+  },
+  "Ferrum College": {
+    "lat": 36.932794,
+    "long": -80.025941,
+    "state": "Virginia"
+  },
+  "Ferris State University": {
+    "lat": 43.682221,
+    "long": -85.480868,
+    "state": "Michigan"
+  },
+  "Edward Waters College": {
+    "lat": 30.345046,
+    "long": -81.684806,
+    "state": "Florida"
+  },
+  "Endicott College": {
+    "lat": 42.552723,
+    "long": -70.84212,
+    "state": "Massachusetts"
+  },
+  "Eastern New Mexico University": {
+    "lat": 34.1745,
+    "long": -103.344788,
+    "state": "New Mexico"
+  },
+  "Elizabeth City State University": {
+    "lat": 36.28087,
+    "long": -76.21228,
+    "state": "North Carolina"
+  },
+  "East Tennessee State University": {
+    "lat": 36.301853,
+    "long": -82.371118,
+    "state": "Tennessee"
+  },
+  "Elizabethtown College": {
+    "lat": 40.150098,
+    "long": -76.588892,
+    "state": "Pennsylvania"
+  },
+  "Drexel University": {
+    "lat": 39.956313,
+    "long": -75.187901,
+    "state": "Pennsylvania"
+  },
+  "Freed-Hardeman University": {
+    "lat": 35.43871,
+    "long": -88.638414,
+    "state": "Tennessee"
+  },
+  "Florida State College at Jacksonville": {
+    "lat": 30.369914,
+    "long": -81.660992,
+    "state": "Florida"
+  },
+  "Fielding Graduate University": {
+    "lat": 34.434425,
+    "long": -119.713803,
+    "state": "California"
+  },
+  "East Texas Baptist University": {
+    "lat": 32.556021,
+    "long": -94.374045,
+    "state": "Texas"
+  },
+  "Franciscan University of Steubenville": {
+    "lat": 40.377462,
+    "long": -80.625967,
+    "state": "Ohio"
+  },
   "Florida International University": {
     "lat": 25.75622,
     "long": -80.375936,
     "state": "Florida"
   },
-  "Frostburg State University": {},
-  "Eastern Kentucky University": {},
-  "Florida Gulf Coast University": {},
+  "Frostburg State University": {
+    "lat": 39.654413,
+    "long": -78.930701,
+    "state": "Maryland"
+  },
+  "Eastern Kentucky University": {
+    "lat": 37.736775,
+    "long": -84.300318,
+    "state": "Kentucky"
+  },
+  "Florida Gulf Coast University": {
+    "lat": 26.463537,
+    "long": -81.774017,
+    "state": "Florida"
+  },
   "Emmanuel College": {
     "lat": 34.280942,
     "long": -83.149609,
     "state": "Georgia"
   },
-  "D'Youville College": {},
-  "Embry-Riddle Aeronautical University": {},
-  "Eastern Mennonite University": {},
-  "Eckerd College": {},
-  "Emory & Henry College": {},
-  "Florida State University": {},
-  "Emmanuel College, Georgia": {},
-  "Emerson College": {}
+  "D'Youville College": {
+    "lat": 42.903075,
+    "long": -78.890041,
+    "state": "New York"
+  },
+  "Embry-Riddle Aeronautical University": {
+    "lat": 29.190462,
+    "long": -81.050996,
+    "state": "Florida"
+  },
+  "Eastern Mennonite University": {
+    "lat": 38.472283,
+    "long": -78.87805,
+    "state": "Virginia"
+  },
+  "Eckerd College": {
+    "lat": 27.713178,
+    "long": -82.687038,
+    "state": "Florida"
+  },
+  "Emory & Henry College": {
+    "lat": 36.772861,
+    "long": -81.831911,
+    "state": "Virginia"
+  },
+  "Florida State University": {
+    "lat": 30.441954,
+    "long": -84.298637,
+    "state": "Florida"
+  },
+  "Emmanuel College, Georgia": {
+    "lat": 34.280942,
+    "long": -83.149609,
+    "state": "Georgia"
+  },
+  "Emerson College": {
+    "lat": 42.341665,
+    "long": -71.064135,
+    "state": "Massachusetts"
+  }
 }

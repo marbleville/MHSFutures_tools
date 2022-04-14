@@ -1,0 +1,309 @@
+{
+  "Western Kentucky University": {
+    "lat": 36.98384,
+    "long": -86.455124,
+    "state": "Kentucky"
+  },
+  "Western Carolina University": {
+    "lat": 35.308628,
+    "long": -83.18038,
+    "state": "North Carolina"
+  },
+  "Western Nevada College": {
+    "lat": 39.185999,
+    "long": -119.789988,
+    "state": "Nevada"
+  },
+  "Western University of Health Sciences": {
+    "lat": 34.058161,
+    "long": -117.747571,
+    "state": "California"
+  },
+  "Westminster College, Pennsylvania": {
+    "lat": 40.816827,
+    "long": -77.812788,
+    "state": "Pennsylvania"
+  },
+  "Western Connecticut State University": {
+    "lat": 41.400469,
+    "long": -73.444095,
+    "state": "Connecticut"
+  },
+  "Wofford College": {
+    "lat": 34.961119,
+    "long": -81.934627,
+    "state": "South Carolina"
+  },
+  "Westmont College": {
+    "lat": 34.449621,
+    "long": -119.660334,
+    "state": "California"
+  },
+  "Western Washington University": {
+    "lat": 48.73343,
+    "long": -122.48564,
+    "state": "Washington"
+  },
+  "Wisconsin School of Professional Psychology": {
+    "lat": 44.356004,
+    "long": -89.466198,
+    "state": "Wisconsin"
+  },
+  "William Penn University": {
+    "lat": 41.310025,
+    "long": -92.647858,
+    "state": "Iowa"
+  },
+  "Winona State University": {
+    "lat": 44.045769,
+    "long": -91.64454,
+    "state": "Minnesota"
+  },
+  "Woodbury University": {
+    "lat": 34.208787,
+    "long": -118.341982,
+    "state": "California"
+  },
+  "William Jessup University": {
+    "lat": 38.820403,
+    "long": -121.292243,
+    "state": "California"
+  },
+  "Western Michigan University": {
+    "lat": 42.283227,
+    "long": -85.614837,
+    "state": "Michigan"
+  },
+  "Wiley College": { "lat": 32.535628, "long": -94.375699, "state": "Texas" },
+  "Wichita State University": {
+    "lat": 37.71918,
+    "long": -97.293378,
+    "state": "Kansas"
+  },
+  "Westfield State University": {
+    "lat": 42.133979,
+    "long": -72.797439,
+    "state": "Massachusetts"
+  },
+  "Williams Baptist University": {
+    "lat": 36.126251,
+    "long": -90.938892,
+    "state": "Arkansas"
+  },
+  "Yale University": {
+    "lat": 41.314614,
+    "long": -72.926488,
+    "state": "Connecticut"
+  },
+  "Wisconsin Lutheran College": {
+    "lat": 43.050133,
+    "long": -88.043933,
+    "state": "Wisconsin"
+  },
+  "William Paterson University": {
+    "lat": 40.946723,
+    "long": -74.197704,
+    "state": "New Jersey"
+  },
+  "Western New England University": {
+    "lat": 42.113961,
+    "long": -72.51805,
+    "state": "Massachusetts"
+  },
+  "William James College": {
+    "lat": 42.295071,
+    "long": -71.203195,
+    "state": "Massachusetts"
+  },
+  "Wilson College": {
+    "lat": 39.951831,
+    "long": -77.655633,
+    "state": "Pennsylvania"
+  },
+  "Worcester State University": {
+    "lat": 42.267329,
+    "long": -71.844119,
+    "state": "Massachusetts"
+  },
+  "William Jewell College": {
+    "lat": 39.250508,
+    "long": -94.411616,
+    "state": "Missouri"
+  },
+  "Winston-Salem State University": {
+    "lat": 36.089781,
+    "long": -80.22578,
+    "state": "North Carolina"
+  },
+  "Wheaton College": {
+    "lat": 41.967784,
+    "long": -71.184622,
+    "state": "Massachusetts"
+  },
+  "Western Illinois University": {
+    "lat": 40.475598,
+    "long": -90.682906,
+    "state": "Illinois"
+  },
+  "Wheeling University": {
+    "lat": 40.071246,
+    "long": -80.690865,
+    "state": "West Virginia"
+  },
+  "Wingate University": {
+    "lat": 34.988808,
+    "long": -80.439591,
+    "state": "North Carolina"
+  },
+  "William Peace University": {
+    "lat": 35.789209,
+    "long": -78.638098,
+    "state": "North Carolina"
+  },
+  "Wilkes University": {
+    "lat": 41.244809,
+    "long": -75.889071,
+    "state": "Pennsylvania"
+  },
+  "Wright State University": {
+    "lat": 39.784142,
+    "long": -84.058515,
+    "state": "Ohio"
+  },
+  "William Carey University": {
+    "lat": 31.303711,
+    "long": -89.292523,
+    "state": "Mississippi"
+  },
+  "Wittenberg University": {
+    "lat": 43.318578,
+    "long": -97.701914,
+    "state": "South Dakota"
+  },
+  "Wheaton College, Massachusetts": {
+    "lat": 41.967784,
+    "long": -71.184622,
+    "state": "Massachusetts"
+  },
+  "Young Harris College": {
+    "lat": 34.932134,
+    "long": -83.84272,
+    "state": "Georgia"
+  },
+  "Whitman College": {
+    "lat": 46.070692,
+    "long": -118.328854,
+    "state": "Washington"
+  },
+  "Wilmington College": {
+    "lat": 39.442781,
+    "long": -83.817813,
+    "state": "Ohio"
+  },
+  "Wilberforce University": {
+    "lat": 39.709007,
+    "long": -83.87864,
+    "state": "Ohio"
+  },
+  "Xavier University": {
+    "lat": 39.150157,
+    "long": -84.472901,
+    "state": "Ohio"
+  },
+  "Widener University": {
+    "lat": 39.861094,
+    "long": -75.357621,
+    "state": "Pennsylvania"
+  },
+  "Westminster College": {
+    "lat": 40.731091,
+    "long": -111.856305,
+    "state": "Utah"
+  },
+  "Western Oregon University": {
+    "lat": 44.853764,
+    "long": -123.239976,
+    "state": "Oregon"
+  },
+  "York College": { "lat": 40.869791, "long": -97.580262, "state": "Nebraska" },
+  "Yeshiva University": {
+    "lat": 34.055566,
+    "long": -118.387856,
+    "state": "California"
+  },
+  "Worcester Polytechnic Institute": {
+    "lat": 42.274899,
+    "long": -71.801435,
+    "state": "Massachusetts"
+  },
+  "Willamette University": {
+    "lat": 44.935299,
+    "long": -123.029703,
+    "state": "Oregon"
+  },
+  "Western Colorado University": {
+    "lat": 38.550509,
+    "long": -106.918773,
+    "state": "Colorado"
+  },
+  "Xavier University of Louisiana": {
+    "lat": 29.964002,
+    "long": -90.107413,
+    "state": "Louisiana"
+  },
+  "York College of Pennsylvania": {
+    "lat": 39.947854,
+    "long": -76.73253,
+    "state": "Pennsylvania"
+  },
+  "Whitworth University": {
+    "lat": 47.754013,
+    "long": -117.416688,
+    "state": "Washington"
+  },
+  "Wilmington University": {
+    "lat": 39.827669,
+    "long": -75.547971,
+    "state": "Delaware"
+  },
+  "Williams College": {
+    "lat": 42.713024,
+    "long": -73.203008,
+    "state": "Massachusetts"
+  },
+  "Whittier College": {
+    "lat": 33.978482,
+    "long": -118.026081,
+    "state": "California"
+  },
+  "York College, City University of New York": {
+    "lat": 40.701027,
+    "long": -73.795374,
+    "state": "New York"
+  },
+  "Western New Mexico University": {
+    "lat": 32.777353,
+    "long": -108.286435,
+    "state": "New Mexico"
+  },
+  "William Woods University": {
+    "lat": 38.860319,
+    "long": -91.950181,
+    "state": "Missouri"
+  },
+  "Youngstown State University": {
+    "lat": 41.106407,
+    "long": -80.648851,
+    "state": "Ohio"
+  },
+  "Westminster College, Missouri": {
+    "lat": 38.848762,
+    "long": -91.955403,
+    "state": "Missouri"
+  },
+  "Winthrop University": {
+    "lat": 34.938588,
+    "long": -81.033393,
+    "state": "South Carolina"
+  }
+}

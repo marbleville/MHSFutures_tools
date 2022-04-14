@@ -1,1 +1,472 @@
-{"Furman University":{"lat":34.936044,"long":-82.435731,"state":"South Carolina"},"Gonzaga University":{"lat":47.667135,"long":-117.401679,"state":"Washington"},"Guilford College":{"lat":36.09313,"long":-79.887829,"state":"North Carolina"},"Georgian Court University":{"lat":40.097399,"long":-74.228296,"state":"New Jersey"},"Howard University":{"lat":38.921207,"long":-77.020064,"state":"District of Columbia"},"Goldey-Beacom College":{"lat":39.742263,"long":-75.689806,"state":"Delaware"},"Hampton University":{},"George Washington University":{"lat":38.917809,"long":-77.090426,"state":"District of Columbia"},"God's Bible School and College":{"lat":42.60593,"long":-83.153482,"state":"Michigan"},"Grace College":{"lat":41.225211,"long":-85.814554,"state":"Indiana"},"Great Basin College":{"lat":40.843334,"long":-115.766943,"state":"Nevada"},"Georgia Institute of Technology":{"lat":33.77233,"long":-84.39456,"state":"Georgia"},"Henderson State University":{},"Harvard University":{},"Gwynedd Mercy University":{},"Georgetown University":{"lat":38.908166,"long":-77.074449,"state":"District of Columbia"},"Holy Cross College":{},"Gettysburg College":{"lat":40.186858,"long":-76.983078,"state":"Pennsylvania"},"Grove City College":{},"Grinnell College":{"lat":41.751207,"long":-92.718745,"state":"Iowa"},"Governors State University":{"lat":41.447569,"long":-87.720166,"state":"Illinois"},"Holy Family University":{},"Humboldt State University":{},"Glenville State College":{"lat":38.934872,"long":-80.835622,"state":"West Virginia"},"Hodges University":{},"Good Samaritan College of Nursing and Health Science":{},"Graceland University":{"lat":40.617794,"long":-93.927331,"state":"Iowa"},"Heidelberg University":{"lat":40.29702,"long":-76.29919,"state":"Pennsylvania"},"Gannon University":{"lat":42.127723,"long":-80.08847,"state":"Pennsylvania"},"Geisinger Commonwealth School of Medicine":{},"Hamline University":{"lat":44.967438,"long":-93.164214,"state":"Minnesota"},"George Fox University":{},"Georgia State University":{},"Hunter College, CUNY":{},"Harvey Mudd College":{},"Gardner-Webb University":{"lat":35.24843,"long":-81.672846,"state":"North Carolina"},"George Mason University":{},"Georgia Southern University":{},"Harrisburg University of Science and Technology":{},"Hope College":{},"Greensboro College":{},"Hofstra University":{},"Hampden-Sydney College":{"lat":37.243596,"long":-78.458435,"state":"Virginia"},"Greenville University":{},"Grambling State University":{"lat":32.521706,"long":-92.71451,"state":"Louisiana"},"Granite State College":{"lat":44.306349,"long":-71.771752,"state":"New Hampshire"},"Goodwin University":{"lat":41.743186,"long":-72.638952,"state":"Connecticut"},"Haverford College":{},"Grand Canyon University":{"lat":33.513375,"long":-112.125826,"state":"Arizona"},"Goshen College":{"lat":41.563285,"long":-85.823991,"state":"Indiana"},"Hiram College":{},"Hollins University":{},"Holy Names University":{},"Great Lakes Christian College":{},"Goddard College":{},"Hannibal-LaGrange University":{"lat":39.730685,"long":-91.390514,"state":"Missouri"},"Hilbert College":{},"Golden Gate University":{},"Grand Valley State University":{},"Holy Apostles College and Seminary":{},"Hamilton College":{"lat":43.053945,"long":-75.405374,"state":"New York"},"Hobart and William Smith Colleges":{},"Harris-Stowe State University":{},"Gordon State College":{},"Grace Christian University":{},"Hillsdale College":{},"Geneva College":{"lat":40.773101,"long":-80.320345,"state":"Pennsylvania"},"Gratz College":{},"Herzing University":{},"Humphreys University":{},"Heritage Christian University":{},"Harding University":{},"Helene Fuld College of Nursing":{},"Gallaudet University":{"lat":38.909988,"long":-76.991497,"state":"District of Columbia"},"Hanover College":{"lat":38.714173,"long":-85.461095,"state":"Indiana"},"Howard Payne University":{"lat":31.715708,"long":-98.986995,"state":"Texas"},"Hendrix College":{},"Houghton College":{},"Hartwick College":{},"Georgia College and State University":{},"Grand View University":{},"High Point University":{},"Hope International University":{},"Georgia Southwestern State University":{"lat":32.05628,"long":-84.2163,"state":"Georgia"},"Georgetown College":{"lat":38.206934,"long":-84.553747,"state":"Kentucky"},"Hult International Business School":{},"Gordon College":{},"Heritage University":{},"Georgia Gwinnett College":{},"Goucher College":{},"Hardin-Simmons University":{},"Hebrew College":{},"Hood College":{},"Gustavus Adolphus College":{},"Hampshire College":{},"Hawaii Pacific University":{},"Hastings College":{},"Houston Baptist University":{}}
+{
+  "Furman University": {
+    "lat": 34.936044,
+    "long": -82.435731,
+    "state": "South Carolina"
+  },
+  "Gonzaga University": {
+    "lat": 47.667135,
+    "long": -117.401679,
+    "state": "Washington"
+  },
+  "Guilford College": {
+    "lat": 36.09313,
+    "long": -79.887829,
+    "state": "North Carolina"
+  },
+  "Georgian Court University": {
+    "lat": 40.097399,
+    "long": -74.228296,
+    "state": "New Jersey"
+  },
+  "Howard University": {
+    "lat": 38.921207,
+    "long": -77.020064,
+    "state": "District of Columbia"
+  },
+  "Goldey-Beacom College": {
+    "lat": 39.742263,
+    "long": -75.689806,
+    "state": "Delaware"
+  },
+  "Hampton University": {
+    "lat": 41.513101,
+    "long": -81.607469,
+    "state": "Ohio"
+  },
+  "George Washington University": {
+    "lat": 38.917809,
+    "long": -77.090426,
+    "state": "District of Columbia"
+  },
+  "God's Bible School and College": {
+    "lat": 42.60593,
+    "long": -83.153482,
+    "state": "Michigan"
+  },
+  "Grace College": { "lat": 41.225211, "long": -85.814554, "state": "Indiana" },
+  "Great Basin College": {
+    "lat": 40.843334,
+    "long": -115.766943,
+    "state": "Nevada"
+  },
+  "Georgia Institute of Technology": {
+    "lat": 33.77233,
+    "long": -84.39456,
+    "state": "Georgia"
+  },
+  "Henderson State University": {
+    "lat": 34.127474,
+    "long": -93.059708,
+    "state": "Arkansas"
+  },
+  "Harvard University": {
+    "lat": 42.368714,
+    "long": -71.125877,
+    "state": "Massachusetts"
+  },
+  "Gwynedd Mercy University": {
+    "lat": 40.19664,
+    "long": -75.238996,
+    "state": "Pennsylvania"
+  },
+  "Georgetown University": {
+    "lat": 38.908166,
+    "long": -77.074449,
+    "state": "District of Columbia"
+  },
+  "Holy Cross College": {
+    "lat": 41.697298,
+    "long": -86.252738,
+    "state": "Indiana"
+  },
+  "Gettysburg College": {
+    "lat": 40.186858,
+    "long": -76.983078,
+    "state": "Pennsylvania"
+  },
+  "Grove City College": {
+    "lat": 41.156154,
+    "long": -80.079691,
+    "state": "Pennsylvania"
+  },
+  "Grinnell College": { "lat": 41.751207, "long": -92.718745, "state": "Iowa" },
+  "Governors State University": {
+    "lat": 41.447569,
+    "long": -87.720166,
+    "state": "Illinois"
+  },
+  "Holy Family University": {
+    "lat": 40.060094,
+    "long": -74.986618,
+    "state": "Pennsylvania"
+  },
+  "Humboldt State University": {
+    "lat": 40.876267,
+    "long": -124.079204,
+    "state": "California"
+  },
+  "Glenville State College": {
+    "lat": 38.934872,
+    "long": -80.835622,
+    "state": "West Virginia"
+  },
+  "Hodges University": {
+    "lat": 26.610881,
+    "long": -81.821412,
+    "state": "Florida"
+  },
+  "Good Samaritan College of Nursing and Health Science": {
+    "lat": 41.532808,
+    "long": -88.096,
+    "state": "Illinois"
+  },
+  "Graceland University": {
+    "lat": 40.617794,
+    "long": -93.927331,
+    "state": "Iowa"
+  },
+  "Heidelberg University": {
+    "lat": 40.29702,
+    "long": -76.29919,
+    "state": "Pennsylvania"
+  },
+  "Gannon University": {
+    "lat": 42.127723,
+    "long": -80.08847,
+    "state": "Pennsylvania"
+  },
+  "Geisinger Commonwealth School of Medicine": {
+    "lat": 41.330963,
+    "long": -75.94955,
+    "state": "Pennsylvania"
+  },
+  "Hamline University": {
+    "lat": 44.967438,
+    "long": -93.164214,
+    "state": "Minnesota"
+  },
+  "George Fox University": {
+    "lat": 45.303313,
+    "long": -122.966396,
+    "state": "Oregon"
+  },
+  "Georgia State University": {
+    "lat": 33.754533,
+    "long": -84.386099,
+    "state": "Georgia"
+  },
+  "Hunter College, CUNY": {
+    "lat": 40.768523,
+    "long": -73.963911,
+    "state": "New York"
+  },
+  "Harvey Mudd College": {
+    "lat": 34.105715,
+    "long": -117.708095,
+    "state": "California"
+  },
+  "Gardner-Webb University": {
+    "lat": 35.24843,
+    "long": -81.672846,
+    "state": "North Carolina"
+  },
+  "George Mason University": {
+    "lat": 38.830627,
+    "long": -77.311707,
+    "state": "Virginia"
+  },
+  "Georgia Southern University": {
+    "lat": 32.425371,
+    "long": -81.78979,
+    "state": "Georgia"
+  },
+  "Harrisburg University of Science and Technology": {
+    "lat": 38.992518,
+    "long": -76.938904,
+    "state": "Maryland"
+  },
+  "Hope College": { "lat": 42.785244, "long": -86.086649, "state": "Michigan" },
+  "Greensboro College": {
+    "lat": 36.070778,
+    "long": -79.800013,
+    "state": "North Carolina"
+  },
+  "Hofstra University": {
+    "lat": 40.71539,
+    "long": -73.598071,
+    "state": "New York"
+  },
+  "Hampden-Sydney College": {
+    "lat": 37.243596,
+    "long": -78.458435,
+    "state": "Virginia"
+  },
+  "Greenville University": {
+    "lat": 38.894668,
+    "long": -89.408801,
+    "state": "Illinois"
+  },
+  "Grambling State University": {
+    "lat": 32.521706,
+    "long": -92.71451,
+    "state": "Louisiana"
+  },
+  "Granite State College": {
+    "lat": 44.306349,
+    "long": -71.771752,
+    "state": "New Hampshire"
+  },
+  "Goodwin University": {
+    "lat": 41.743186,
+    "long": -72.638952,
+    "state": "Connecticut"
+  },
+  "Haverford College": {
+    "lat": 40.008377,
+    "long": -75.304266,
+    "state": "Pennsylvania"
+  },
+  "Grand Canyon University": {
+    "lat": 33.513375,
+    "long": -112.125826,
+    "state": "Arizona"
+  },
+  "Goshen College": {
+    "lat": 41.563285,
+    "long": -85.823991,
+    "state": "Indiana"
+  },
+  "Hiram College": { "lat": 41.31279, "long": -81.141952, "state": "Ohio" },
+  "Hollins University": {
+    "lat": 37.357506,
+    "long": -79.941948,
+    "state": "Virginia"
+  },
+  "Holy Names University": {
+    "lat": 37.803009,
+    "long": -122.187274,
+    "state": "California"
+  },
+  "Great Lakes Christian College": {
+    "lat": 42.754455,
+    "long": -84.638495,
+    "state": "Michigan"
+  },
+  "Goddard College": {
+    "lat": 44.279047,
+    "long": -72.438399,
+    "state": "Vermont"
+  },
+  "Hannibal-LaGrange University": {
+    "lat": 39.730685,
+    "long": -91.390514,
+    "state": "Missouri"
+  },
+  "Hilbert College": {
+    "lat": 42.756726,
+    "long": -78.822532,
+    "state": "New York"
+  },
+  "Golden Gate University": {
+    "lat": 37.789195,
+    "long": -122.398942,
+    "state": "California"
+  },
+  "Grand Valley State University": {
+    "lat": 42.337579,
+    "long": -83.048528,
+    "state": "Michigan"
+  },
+  "Holy Apostles College and Seminary": {
+    "lat": 38.821075,
+    "long": -77.095362,
+    "state": "Virginia"
+  },
+  "Hamilton College": {
+    "lat": 43.053945,
+    "long": -75.405374,
+    "state": "New York"
+  },
+  "Hobart and William Smith Colleges": {
+    "lat": 34.09071,
+    "long": -118.304883,
+    "state": "California"
+  },
+  "Harris-Stowe State University": {
+    "lat": 38.632771,
+    "long": -90.224856,
+    "state": "Missouri"
+  },
+  "Gordon State College": {
+    "lat": 33.047129,
+    "long": -84.152084,
+    "state": "Georgia"
+  },
+  "Grace Christian University": {
+    "lat": 42.919232,
+    "long": -85.692172,
+    "state": "Michigan"
+  },
+  "Hillsdale College": {
+    "lat": 41.932814,
+    "long": -84.633659,
+    "state": "Michigan"
+  },
+  "Geneva College": {
+    "lat": 40.773101,
+    "long": -80.320345,
+    "state": "Pennsylvania"
+  },
+  "Gratz College": {
+    "lat": 40.067026,
+    "long": -75.13358,
+    "state": "Pennsylvania"
+  },
+  "Herzing University": {
+    "lat": 41.028292,
+    "long": -81.492897,
+    "state": "Ohio"
+  },
+  "Humphreys University": {
+    "lat": 38.010884,
+    "long": -121.316417,
+    "state": "California"
+  },
+  "Heritage Christian University": {
+    "lat": 34.855406,
+    "long": -87.663321,
+    "state": "Alabama"
+  },
+  "Harding University": {
+    "lat": 35.24703,
+    "long": -91.727082,
+    "state": "Arkansas"
+  },
+  "Helene Fuld College of Nursing": {
+    "lat": 37.377806,
+    "long": -82.538596,
+    "state": "Kentucky"
+  },
+  "Gallaudet University": {
+    "lat": 38.909988,
+    "long": -76.991497,
+    "state": "District of Columbia"
+  },
+  "Hanover College": {
+    "lat": 38.714173,
+    "long": -85.461095,
+    "state": "Indiana"
+  },
+  "Howard Payne University": {
+    "lat": 31.715708,
+    "long": -98.986995,
+    "state": "Texas"
+  },
+  "Hendrix College": {
+    "lat": 35.099449,
+    "long": -92.441371,
+    "state": "Arkansas"
+  },
+  "Houghton College": {
+    "lat": 42.426561,
+    "long": -78.155773,
+    "state": "New York"
+  },
+  "Hartwick College": {
+    "lat": 42.459547,
+    "long": -75.072835,
+    "state": "New York"
+  },
+  "Georgia College and State University": {
+    "lat": 33.082087,
+    "long": -83.23071,
+    "state": "Georgia"
+  },
+  "Grand View University": {
+    "lat": 41.620677,
+    "long": -93.60218,
+    "state": "Iowa"
+  },
+  "High Point University": {
+    "lat": 35.972086,
+    "long": -79.993658,
+    "state": "North Carolina"
+  },
+  "Hope International University": {
+    "lat": 33.877402,
+    "long": -117.885145,
+    "state": "California"
+  },
+  "Georgia Southwestern State University": {
+    "lat": 32.05628,
+    "long": -84.2163,
+    "state": "Georgia"
+  },
+  "Georgetown College": {
+    "lat": 38.206934,
+    "long": -84.553747,
+    "state": "Kentucky"
+  },
+  "Hult International Business School": {
+    "lat": 42.370861,
+    "long": -71.070718,
+    "state": "Massachusetts"
+  },
+  "Gordon College": {
+    "lat": 42.588984,
+    "long": -70.820048,
+    "state": "Massachusetts"
+  },
+  "Heritage University": {
+    "lat": 46.252846,
+    "long": -119.119019,
+    "state": "Washington"
+  },
+  "Georgia Gwinnett College": {
+    "lat": 33.979995,
+    "long": -84.005561,
+    "state": "Georgia"
+  },
+  "Goucher College": {
+    "lat": 39.409334,
+    "long": -76.594592,
+    "state": "Maryland"
+  },
+  "Hardin-Simmons University": {
+    "lat": 32.477727,
+    "long": -99.734158,
+    "state": "Texas"
+  },
+  "Hebrew College": {
+    "lat": 42.325795,
+    "long": -71.188559,
+    "state": "Massachusetts"
+  },
+  "Hood College": { "lat": 39.422694, "long": -77.4185, "state": "Maryland" },
+  "Gustavus Adolphus College": {
+    "lat": 44.325781,
+    "long": -93.971859,
+    "state": "Minnesota"
+  },
+  "Hampshire College": {
+    "lat": 42.321865,
+    "long": -72.531587,
+    "state": "Massachusetts"
+  },
+  "Hawaii Pacific University": {
+    "lat": 21.310022,
+    "long": -157.860437,
+    "state": "Hawaii"
+  },
+  "Hastings College": {
+    "lat": 40.593753,
+    "long": -98.370452,
+    "state": "Nebraska"
+  },
+  "Houston Baptist University": {
+    "lat": 29.694218,
+    "long": -95.515307,
+    "state": "Texas"
+  }
+}
