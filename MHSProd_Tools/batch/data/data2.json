@@ -1,0 +1,227 @@
+{
+  "Berry College": { "lat": 34.2882, "long": -85.18988, "state": "Georgia" },
+  "Bastyr University": {
+    "lat": 47.728639,
+    "long": -122.252691,
+    "state": "Washington"
+  },
+  "Bethel College": { "lat": 38.074916, "long": -97.342173, "state": "Kansas" },
+  "Belmont Abbey College": {
+    "lat": 35.260754,
+    "long": -81.040099,
+    "state": "North Carolina"
+  },
+  "Beloit College": {
+    "lat": 42.506135,
+    "long": -89.029657,
+    "state": "Wisconsin"
+  },
+  "Bennett College": {
+    "lat": 36.067608,
+    "long": -79.779852,
+    "state": "North Carolina"
+  },
+  "Becker College": {
+    "lat": 42.268386,
+    "long": -71.811851,
+    "state": "Massachusetts"
+  },
+  "Bellevue College": {
+    "lat": 47.586124,
+    "long": -122.146663,
+    "state": "Washington"
+  },
+  "Benedictine College": {
+    "lat": 39.576033,
+    "long": -95.11288,
+    "state": "Kansas"
+  },
+  "Berea College": { "lat": 37.57175, "long": -84.290211, "state": "Kentucky" },
+  "Belmont University": {
+    "lat": 36.132698,
+    "long": -86.793816,
+    "state": "Tennessee"
+  },
+  "Baylor University": {
+    "lat": 31.550621,
+    "long": -97.115665,
+    "state": "Texas"
+  },
+  "Caldwell University": {},
+  "Boricua College": {
+    "lat": 40.833333,
+    "long": -73.946111,
+    "state": "New York"
+  },
+  "Bryant and Stratton College": {
+    "lat": 37.460218,
+    "long": -77.542252,
+    "state": "Virginia"
+  },
+  "Brewton-Parker College": {
+    "lat": 32.185788,
+    "long": -82.584398,
+    "state": "Georgia"
+  },
+  "Bloomfield College": {},
+  "Brigham Young University-Idaho": {
+    "lat": 43.818238,
+    "long": -111.778286,
+    "state": "Idaho"
+  },
+  "Bryant University": {},
+  "Briar Cliff University": {
+    "lat": 42.527346,
+    "long": -96.427244,
+    "state": "Iowa"
+  },
+  "Bradley University": {
+    "lat": 40.697897,
+    "long": -89.614215,
+    "state": "Illinois"
+  },
+  "California Baptist University": {
+    "lat": 33.928834,
+    "long": -117.426412,
+    "state": "California"
+  },
+  "Bushnell University": {},
+  "Bethel University, Tennessee": {
+    "lat": 36.141618,
+    "long": -88.515919,
+    "state": "Tennessee"
+  },
+  "Biola University": {
+    "lat": 33.906089,
+    "long": -118.014923,
+    "state": "California"
+  },
+  "Bentley University": {
+    "lat": 42.383539,
+    "long": -71.222745,
+    "state": "Massachusetts"
+  },
+  "Boise Bible College": {},
+  "Binghamton University, State University of New York": {},
+  "Bryan College of Health Sciences": {},
+  "Bismarck State College": {},
+  "Buena Vista University": {},
+  "Bowdoin College": {},
+  "Black Hills State University": {},
+  "Bryn Athyn College": {
+    "lat": 40.134818,
+    "long": -75.060003,
+    "state": "Pennsylvania"
+  },
+  "California Institute of Technology": {},
+  "Brescia University": {
+    "lat": 37.768937,
+    "long": -87.111386,
+    "state": "Kentucky"
+  },
+  "Bethany College": {
+    "lat": 38.580483,
+    "long": -97.671115,
+    "state": "Kansas"
+  },
+  "Beacon College": { "lat": 28.81134, "long": -81.87494, "state": "Florida" },
+  "Benjamin Franklin Institute of Technology": {},
+  "Bates College": { "lat": 44.105483, "long": -70.202954, "state": "Maine" },
+  "Bellin College": {
+    "lat": 44.46998,
+    "long": -87.923063,
+    "state": "Wisconsin"
+  },
+  "Brigham Young University": {
+    "lat": 40.257028,
+    "long": -111.647616,
+    "state": "Utah"
+  },
+  "Bowling Green State University": {},
+  "Berklee College of Music": {
+    "lat": 42.345713,
+    "long": -71.086765,
+    "state": "Massachusetts"
+  },
+  "Bethany College, Kansas": {},
+  "Brandman University": {},
+  "Belhaven University": {},
+  "Bethesda University": {},
+  "Brandeis University": {},
+  "Bowie State University": {},
+  "California Institute of Integral Studies": {},
+  "Bethany Lutheran College": {},
+  "Benedict College": {},
+  "Brazosport College": {},
+  "Bethune-Cookman University": {
+    "lat": 29.212062,
+    "long": -81.031175,
+    "state": "Florida"
+  },
+  "Beulah Heights University": {},
+  "Bluefield College": {},
+  "Butler University": {
+    "lat": 39.840578,
+    "long": -86.172055,
+    "state": "Indiana"
+  },
+  "Bryan College": {},
+  "Bay Path University": {},
+  "Boston University": {},
+  "California College of the Arts": {
+    "lat": 37.836415,
+    "long": -122.250371,
+    "state": "California"
+  },
+  "Brooklyn College": {},
+  "Bellarmine University": {},
+  "Birmingham-Southern College": {},
+  "Bennington College": {},
+  "Brigham Young University-Hawaii": {},
+  "Bloomsburg University of Pennsylvania": {},
+  "Cabarrus College of Health Sciences": {
+    "lat": 35.440023,
+    "long": -80.600886,
+    "state": "North Carolina"
+  },
+  "Boston College": {},
+  "Brown University": {},
+  "Berkeley College": {
+    "lat": 41.310494,
+    "long": -72.928383,
+    "state": "Connecticut"
+  },
+  "Cairn University": {},
+  "Bridgewater College": {},
+  "Bluffton University": {},
+  "Blackburn College": {},
+  "Bridgewater State University": {},
+  "Benedictine University": {},
+  "Bluefield State College": {
+    "lat": 37.265972,
+    "long": -81.239753,
+    "state": "West Virginia"
+  },
+  "Brooklyn Law School": {},
+  "Boise State University": {},
+  "Bay State College": {},
+  "Bob Jones University": {},
+  "Baruch College, CUNY": {},
+  "Bucknell University": {},
+  "Brenau University": {},
+  "Buffalo State College": {},
+  "Boston Graduate School of Psychoanalysis": {},
+  "Bryn Mawr College": {},
+  "Boston Architectural College": {},
+  "Bellevue University": {},
+  "Blue Mountain College": {},
+  "Baylor College of Medicine": {},
+  "Brevard College": {
+    "lat": 35.236917,
+    "long": -82.72256,
+    "state": "North Carolina"
+  },
+  "Broward College": {},
+  "Bethel University": {},
+  "Bemidji State University": {}
+}

@@ -1,0 +1,233 @@
+{
+  "A.T. Still University": {
+    "lat": 33.383449,
+    "long": -111.704744,
+    "state": "Arizona"
+  },
+  "Alcorn State University": {
+    "lat": 31.87675,
+    "long": -91.141797,
+    "state": "Mississippi"
+  },
+  "Abilene Christian University": {
+    "lat": 32.470303,
+    "long": -99.707627,
+    "state": "Texas"
+  },
+  "Adelphi University": {
+    "lat": 40.719445,
+    "long": -73.651608,
+    "state": "New York"
+  },
+  "Albertus Magnus College": {
+    "lat": 41.332648,
+    "long": -72.922493,
+    "state": "Connecticut"
+  },
+  "Adler University": {
+    "lat": 28.077051,
+    "long": -82.43741,
+    "state": "Florida"
+  },
+  "Auburn University": {
+    "lat": 35.915033,
+    "long": -78.912063,
+    "state": "North Carolina"
+  },
+  "Academy of Art University": {
+    "lat": 37.776016,
+    "long": -122.398707,
+    "state": "California"
+  },
+  "Albany College of Pharmacy and Health Sciences": {
+    "lat": 42.652053,
+    "long": -73.778671,
+    "state": "New York"
+  },
+  "Allen University": {
+    "lat": 34.010267,
+    "long": -81.019571,
+    "state": "South Carolina"
+  },
+  "American Jewish University": {
+    "lat": 34.127017,
+    "long": -118.471988,
+    "state": "California"
+  },
+  "Aquinas College": {
+    "lat": 42.958993,
+    "long": -85.624011,
+    "state": "Michigan"
+  },
+  "Anderson University": {
+    "lat": 40.113702,
+    "long": -85.663095,
+    "state": "Indiana"
+  },
+  "Atlanta Metropolitan State College": {
+    "lat": 33.709598,
+    "long": -84.405516,
+    "state": "Georgia"
+  },
+  "Albany Medical College": {},
+  "Anna Maria College": {},
+  "Antioch University Santa Barbara": {},
+  "Adrian College": {},
+  "Augustana College": {},
+  "Augustana University": {
+    "lat": 43.521729,
+    "long": -96.739529,
+    "state": "South Dakota"
+  },
+  "Albany State University": {
+    "lat": 31.568348,
+    "long": -84.143896,
+    "state": "Georgia"
+  },
+  "Arcadia University": {
+    "lat": 40.091031,
+    "long": -75.16543,
+    "state": "Pennsylvania"
+  },
+  "Augsburg University": {
+    "lat": 35.412639,
+    "long": -93.242084,
+    "state": "Arkansas"
+  },
+  "Antioch University New England": {},
+  "American International College": {},
+  "Baker College": {},
+  "Arkansas State University": {},
+  "American Film Institute Conservatory": {},
+  "Arkansas Baptist College": {},
+  "Albany Law School": {},
+  "Augusta University": {},
+  "Abraham Baldwin Agricultural College": {},
+  "Austin Peay State University": {},
+  "Art Academy of Cincinnati": {
+    "lat": 39.1089,
+    "long": -84.513874,
+    "state": "Ohio"
+  },
+  "Alice Lloyd College": {},
+  "AdventHealth University": {
+    "lat": 28.572767,
+    "long": -81.371485,
+    "state": "Florida"
+  },
+  "Alverno College": {
+    "lat": 42.982205,
+    "long": -87.965268,
+    "state": "Wisconsin"
+  },
+  "Alaska Bible College": {
+    "lat": 61.598517,
+    "long": -149.111685,
+    "state": "Alaska"
+  },
+  "Adams State University": {
+    "lat": 37.475179,
+    "long": -105.879799,
+    "state": "Colorado"
+  },
+  "Babson College": {},
+  "Allen College": {},
+  "Alfred State College": {},
+  "Bacone College": {},
+  "Appalachian College of Pharmacy": {
+    "lat": 37.211881,
+    "long": -82.005992,
+    "state": "Virginia"
+  },
+  "Amherst College": {
+    "lat": 42.370776,
+    "long": -72.5168,
+    "state": "Massachusetts"
+  },
+  "Alma College": {},
+  "Baker University": {},
+  "Avila University": {
+    "lat": 38.91235,
+    "long": -94.590926,
+    "state": "Missouri"
+  },
+  "Ball State University": {},
+  "Baldwin Wallace University": {},
+  "Appalachian Bible College": {},
+  "Alvernia University": {},
+  "Air Force Institute of Technology": {
+    "lat": 39.782348,
+    "long": -84.083778,
+    "state": "Ohio"
+  },
+  "Allegheny College": {},
+  "Angelo State University": {},
+  "Barnard College": {},
+  "Anderson University, Indiana": {},
+  "Ashland University": {
+    "lat": 40.862308,
+    "long": -82.325872,
+    "state": "Ohio"
+  },
+  "Aurora University": {},
+  "American Baptist College": {
+    "lat": 36.202278,
+    "long": -86.790277,
+    "state": "Tennessee"
+  },
+  "Bard College": {},
+  "Alderson Broaddus University": {
+    "lat": 39.157104,
+    "long": -80.049212,
+    "state": "West Virginia"
+  },
+  "Alliant International University": {},
+  "Alabama State University": {},
+  "Austin College": { "lat": 33.64866, "long": -96.597953, "state": "Texas" },
+  "Averett University": {},
+  "American University": {
+    "lat": 38.937835,
+    "long": -77.088263,
+    "state": "District of Columbia"
+  },
+  "Agnes Scott College": {},
+  "Adler Graduate School": {},
+  "Bard College at Simon's Rock": {},
+  "Aquinas College, Tennessee": {},
+  "Antioch University": {},
+  "Ave Maria University": {},
+  "Appalachian State University": {},
+  "Baptist Bible College": {},
+  "Arizona State University": {},
+  "Arkansas Tech University": {},
+  "Antioch University Seattle": {},
+  "Andrews University": {},
+  "Barton College": {
+    "lat": 35.735435,
+    "long": -77.912484,
+    "state": "North Carolina"
+  },
+  "Albion College": {},
+  "ArtCenter College of Design": {},
+  "Arizona Christian University": {},
+  "Bank Street College of Education": {},
+  "Amberton University": {},
+  "Baptist Health Sciences University": {},
+  "Azusa Pacific University": {},
+  "Alaska Pacific University": {},
+  "Auburn University at Montgomery": {},
+  "Athens State University": {},
+  "Albright College": {
+    "lat": 40.363276,
+    "long": -75.911199,
+    "state": "Pennsylvania"
+  },
+  "Alabama A&M University": {},
+  "Barry University": {},
+  "Assumption College": {},
+  "Arlington Baptist University": {},
+  "Antioch University Los Angeles": {},
+  "Asbury University": {},
+  "Barclay College": {},
+  "Alfred University": {}
+}

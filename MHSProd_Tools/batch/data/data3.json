@@ -1,0 +1,238 @@
+{
+  "California University of Pennsylvania": {
+    "lat": 40.06393,
+    "long": -79.884505,
+    "state": "Pennsylvania"
+  },
+  "California State University, Stanislaus": {
+    "lat": 37.525705,
+    "long": -120.854539,
+    "state": "California"
+  },
+  "California State University, San Bernardino": {
+    "lat": 34.181293,
+    "long": -117.323637,
+    "state": "California"
+  },
+  "Central College": { "lat": 40.10158, "long": -82.887869, "state": "Ohio" },
+  "California State University, Dominguez Hills": {
+    "lat": 33.86085,
+    "long": -118.23424,
+    "state": "California"
+  },
+  "Campbellsville University": {
+    "lat": 37.343271,
+    "long": -85.349328,
+    "state": "Kentucky"
+  },
+  "Calumet College of St. Joseph": {
+    "lat": 41.668647,
+    "long": -87.493654,
+    "state": "Indiana"
+  },
+  "California State University, Fullerton": {
+    "lat": 33.88283,
+    "long": -117.887077,
+    "state": "California"
+  },
+  "California State University, Chico": {
+    "lat": 39.7302,
+    "long": -121.846939,
+    "state": "California"
+  },
+  "Cambridge College": {
+    "lat": 42.381391,
+    "long": -71.072664,
+    "state": "Massachusetts"
+  },
+  "California State University, Sacramento": {
+    "lat": 38.560613,
+    "long": -121.4231,
+    "state": "California"
+  },
+  "California State University, Northridge": {
+    "lat": 34.238921,
+    "long": -118.529325,
+    "state": "California"
+  },
+  "Calvin University": {
+    "lat": 42.932507,
+    "long": -85.58112,
+    "state": "Michigan"
+  },
+  "Cameron University": {
+    "lat": 34.604116,
+    "long": -98.436364,
+    "state": "Oklahoma"
+  },
+  "California State University, Los Angeles": {
+    "lat": 34.238921,
+    "long": -118.529325,
+    "state": "California"
+  },
+  "Canisius College": {},
+  "Case Western Reserve University": {},
+  "Cedarville University": {},
+  "Carnegie Mellon University": {
+    "lat": 40.444307,
+    "long": -79.942832,
+    "state": "Pennsylvania"
+  },
+  "California Polytechnic State University, San Luis Obispo": {},
+  "Carson-Newman University": {},
+  "California State Polytechnic University, Pomona": {
+    "lat": 34.05709,
+    "long": -117.82116,
+    "state": "California"
+  },
+  "Cleveland Institute of Music": {},
+  "Christopher Newport University": {},
+  "Carroll College": {},
+  "California State University Maritime Academy": {
+    "lat": 37.525705,
+    "long": -120.854539,
+    "state": "California"
+  },
+  "Chatham University": {},
+  "Clarkson University": {},
+  "Calvary University": {
+    "lat": 38.838522,
+    "long": -94.546724,
+    "state": "Missouri"
+  },
+  "California Institute of the Arts": {
+    "lat": 34.392678,
+    "long": -118.566356,
+    "state": "California"
+  },
+  "California Western School of Law": {
+    "lat": 36.531544,
+    "long": -119.586168,
+    "state": "California"
+  },
+  "California State University, Bakersfield": {
+    "lat": 35.350811,
+    "long": -119.10381,
+    "state": "California"
+  },
+  "Clarke University": {},
+  "Campbell University": {
+    "lat": 35.409196,
+    "long": -78.738723,
+    "state": "North Carolina"
+  },
+  "Central State University": {},
+  "Charleston Southern University": {},
+  "Central Michigan University": {},
+  "Central Washington University": {},
+  "Christian Brothers University": {},
+  "Castleton University": {},
+  "Cleveland State University": {},
+  "Cheyney University of Pennsylvania": {},
+  "Cleary University": {},
+  "California State University, Long Beach": {
+    "lat": 33.764184,
+    "long": -118.201378,
+    "state": "California"
+  },
+  "Cedar Crest College": {
+    "lat": 40.587041,
+    "long": -75.519629,
+    "state": "Pennsylvania"
+  },
+  "Colby-Sawyer College": {
+    "lat": 43.41188,
+    "long": -71.978027,
+    "state": "New Hampshire"
+  },
+  "Central Baptist College": {
+    "lat": 35.08271,
+    "long": -92.44529,
+    "state": "Arkansas"
+  },
+  "Clemson University": {},
+  "California State University, East Bay": {},
+  "Carlow University": {
+    "lat": 40.438775,
+    "long": -79.963595,
+    "state": "Pennsylvania"
+  },
+  "Cleveland University-Kansas City": {},
+  "Claremont McKenna College": {},
+  "Capitol Technology University": {},
+  "Chicago State University": {},
+  "Centenary College of Louisiana": {},
+  "Chamberlain University": {},
+  "Chapman University": {},
+  "Chowan University": {},
+  "Central Connecticut State University": {},
+  "Chestnut Hill College": {},
+  "Chipola College": {},
+  "California State University San Marcos": {},
+  "Central Penn College": {},
+  "Capital University": {
+    "lat": 39.955654,
+    "long": -82.93851,
+    "state": "Ohio"
+  },
+  "Coe College": {},
+  "Chaminade University of Honolulu": {},
+  "Clark University": {},
+  "Catawba College": {},
+  "Coastal Carolina University": {},
+  "Clarion University of Pennsylvania": {
+    "lat": 41.20979,
+    "long": -79.37838,
+    "state": "Pennsylvania"
+  },
+  "Cleveland Institute of Art": {},
+  "Centralia College": {
+    "lat": 46.71638,
+    "long": -122.962927,
+    "state": "Washington"
+  },
+  "Central Christian College of Kansas": {},
+  "California State University Channel Islands": {},
+  "Cardinal Stritch University": {
+    "lat": 43.139469,
+    "long": -87.910034,
+    "state": "Wisconsin"
+  },
+  "Claremont Graduate University": {},
+  "Clayton State University": {},
+  "Clarks Summit University": {},
+  "Cazenovia College": {},
+  "Central Christian College of the Bible": {},
+  "City University of Seattle": {},
+  "Carroll University": {
+    "lat": 43.00348,
+    "long": -88.227847,
+    "state": "Wisconsin"
+  },
+  "Centre College": {},
+  "Champlain College": {},
+  "Central Methodist University": {},
+  "Charles R. Drew University of Medicine and Science": {},
+  "Coker University": {},
+  "California State University, Monterey Bay": {},
+  "Claflin University": {},
+  "Clarkson College": {
+    "lat": 41.25932,
+    "long": -95.975479,
+    "state": "Nebraska"
+  },
+  "Clark Atlanta University": {},
+  "Centenary University": {},
+  "California State University, Fresno": {},
+  "Colby College": {},
+  "Clear Creek Baptist Bible College": {},
+  "Carleton College": {},
+  "Carthage College": {},
+  "Carolina University": {},
+  "Chadron State College": {},
+  "California Lutheran University": {
+    "lat": 34.2274,
+    "long": -118.87882,
+    "state": "California"
+  }
+}
